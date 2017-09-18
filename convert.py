@@ -3,7 +3,10 @@
 # Assignment 1b
 # Hunter Eason
 # Due: 9/18/2017
+<<<<<<< HEAD
 # V3         
+=======
+# V4     
 import sys
 import csv
          
