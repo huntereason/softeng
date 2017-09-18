@@ -3,7 +3,7 @@
 # Assignment 1b
 # Hunter Eason
 # Due: 9/18/2017
-# V2         
+# V3         
 import sys
 import csv
          
@@ -32,7 +32,7 @@ def csv2xml(items):
                 for line in q:
                         count = count + 1
 #        for row in items:
- #               xmldata.write('\t' + '<Record>' + '\n')
+#               xmldata.write('\t' + '<Record>' + '\n')
 #		for index, column in enumerate(row):
 #			xmldata.write(l[index]+column+'</StudentID>\n');
 #                xmldata.write('\t' + '</Record>' + '\n')
